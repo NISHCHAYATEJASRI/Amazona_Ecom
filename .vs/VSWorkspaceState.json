@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend\\src\\actions",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\constants",
+    "\\frontend\\src\\reducers",
+    "\\frontend\\src\\screens"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
