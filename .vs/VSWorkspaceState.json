@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\frontend\\src\\actions",
-    "\\frontend\\src\\components",
+    "\\backend",
+    "\\backend\\models",
+    "\\backend\\routers",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
     "\\frontend\\src\\constants",
     "\\frontend\\src\\reducers",
     "\\frontend\\src\\screens"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\frontend\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }
