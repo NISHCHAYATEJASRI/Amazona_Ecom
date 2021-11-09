@@ -4,13 +4,13 @@
     "\\backend",
     "\\backend\\models",
     "\\backend\\routers",
-    "\\frontend",
     "\\frontend\\public",
     "\\frontend\\src",
     "\\frontend\\src\\constants",
     "\\frontend\\src\\reducers",
-    "\\frontend\\src\\screens"
+    "\\frontend\\src\\screens",
+    "\\template"
   ],
-  "SelectedNode": "\\frontend\\public\\index.html",
+  "SelectedNode": "\\backend\\data.js",
   "PreviewInSolutionExplorer": false
 }
